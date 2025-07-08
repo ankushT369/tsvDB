@@ -1,2 +1,2 @@
 # tsvDB
-A prototype of time-series vector database
+A prototype for time-series vector database
