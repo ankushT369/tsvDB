@@ -1,3 +1,4 @@
+//registry.rs
 use std::collections::HashMap;
 use std::sync::atomic::{AtomicU64, Ordering};
 

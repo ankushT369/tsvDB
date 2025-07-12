@@ -1,3 +1,5 @@
+//mod.rs
+
 pub mod registry;
 pub mod schema;
 pub mod chunk_meta;

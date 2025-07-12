@@ -1,2 +1,2 @@
 # tsvDB
-A prototype for time-series vector database
+A prototype for time-series vector database aims for high cardinality.
